@@ -1,0 +1,13 @@
+[{
+"id": "test",
+"execute-command": "/home/ubuntu/webhooks/tests/test.sh",
+"command-working-directory": "/home/ubuntu/webhooks",
+"response-message": "Executing deploy script..."
+},
+{
+"id": "prf-form",
+"execute-command": "/home/ubuntu/webhooks/project-site/deploy.sh",
+"command-working-directory": "/home/ubuntu/nginx-proxy",
+"response-message": "Executing deploy script..."
+}
+]
